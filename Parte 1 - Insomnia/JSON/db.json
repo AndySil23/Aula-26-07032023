@@ -1,0 +1,85 @@
+{
+  "categorias": [
+    {
+      "titulo": "calças",
+      "descricao": "Calças de botar",
+      "id": 1
+    },
+
+    {
+      "titulo": "botas",
+      "descricao": "Botas de calçar",
+      "id": 2
+    },
+
+    {
+      "titulo": "camisas",
+      "descricao": "Camisas de vestir",
+      "id": 3
+    }
+  ],
+  "produtos": [
+    {
+      "categoria_id": 2,
+      "imagens do produto": "",
+      "tamanho": "39",
+      "código": "10982-2",
+      "marca": "TheRua",
+      "cor": "Preto",
+      "descricao": "",
+      "titulo": "Bota cano alto",
+      "valor": 59.9,
+      "qtd": 10,
+      "id": 1
+    },
+    {
+      "categoria_id": 3,
+      "imagens do produto": "",
+      "tamanho": "M",
+      "código": "28477-3",
+      "marca": "Bratz",
+      "cor": "Amarelo",
+      "descricao": "",
+      "titulo": "Camisa Party Princess",
+      "valor": 39.9,
+      "qtd": 20,
+      "id": 2
+    },
+    {
+      "categoria_id": 1,
+      "imagens do produto": "",
+      "tamanho": "M",
+      "código": "74801-6",
+      "marca": "Handara",
+      "cor": "Azul",
+      "descricao": "",
+      "titulo": "Calça Funny Colors",
+      "valor": 49.9,
+      "qtd": 30,
+      "id": 3
+    }
+  ],
+  "clientes": [
+    {
+      "nome de cliente": "Fulana",
+      "cpf": "111111111-11",
+      "genero": "Pessoa Não-binaria",
+      "idade": "30",
+      "id": "1"
+    },
+    {
+      "nome de cliente": "Ciclana",
+      "cpf": "222222222-22",
+      "genero": "Mulher",
+      "idade": "23",
+      "id": "2"
+    },
+    {
+      "nome de cliente": "Beltrano",
+      "cpf": "333333333-33",
+      "genero": "Homem",
+      "idade": "19",
+      "id": "3"
+    }
+  ]
+}
